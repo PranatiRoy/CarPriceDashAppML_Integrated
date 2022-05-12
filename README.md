@@ -5,9 +5,11 @@
 
 ### For dash applicaion
 
-####import dash
-####import dash_html_components as html
-####import dash_core_components as dcc
-####from dash.dependencies import Input, Output,State
-####import plotly.express as px
+#### import dash
+#### import dash_html_components as html
+#### import dash_core_components as dcc
+#### from dash.dependencies import Input, Output,State
+
+#### These are the libraries required for dealing with html css component with python 
+
 
